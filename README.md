@@ -2,9 +2,9 @@
 Independent project of MSBD5001-Fall2018 Foundations of Data Analytics.It is about modeling the performance of computer programs. The dataset provided describes a few examples of running SGDClassifier in Python. The features of the dataset describes the SGDClassifier as well as the features used to generate the synthetic training data. The data to be analyzed is the training time of the SGDClassifier.
 # Getting Started
 ## Prerequisites
-Anaconda
-Python3
-Jupyter Notebook
+  1. Anaconda
+  2. Python3
+  3. Jupyter Notebook
 ## Installing
 packages need to install before running:
   1. pandas
