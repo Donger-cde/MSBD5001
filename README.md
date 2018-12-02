@@ -7,14 +7,14 @@ Python3
 Jupyter Notebook
 ## Installing
 packages need to install before running:
-  pandas
-  numpy
-  seaborn
-  matplotlib
-  math
-  scipy
-  keras
-  tensorflow
+  1. pandas
+  2. numpy
+  3. seaborn
+  4. matplotlib
+  5. math
+  6. scipy
+  7. keras
+  8. tensorflow
 # Running 
   1. Download this repo(include all data files,eg. test.csv,train.csv)
   2. Open 5001.ipynb in Jupyter Notebook
